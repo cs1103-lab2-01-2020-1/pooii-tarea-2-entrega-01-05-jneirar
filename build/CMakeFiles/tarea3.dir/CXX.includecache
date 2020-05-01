@@ -1,0 +1,126 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio2/LIFO.cpp
+LIFO.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio2/LIFO.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio2/LIFO.h
+../lib.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/lib.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio3/LIFO_T.cpp
+LIFO_T.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio3/LIFO_T.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio3/LIFO_T.h
+../lib.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/lib.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/bicicleta.cpp
+bicicleta.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/bicicleta.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/bicicleta.h
+vehiculo.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/vehiculo.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/camion.cpp
+camion.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/camion.h
+vehiculo.cpp
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/vehiculo.cpp
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/camion.h
+vehiculo.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/vehiculo.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/orden.cpp
+orden.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/orden.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/orden.h
+../lib.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/lib.h
+camion.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/camion.h
+camion.cpp
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/camion.cpp
+bicicleta.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/bicicleta.h
+bicicleta.cpp
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/bicicleta.cpp
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/sistema_logistico.cpp
+sistema_logistico.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/sistema_logistico.h
+orden.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/orden.h
+orden.cpp
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/orden.cpp
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/sistema_logistico.h
+../lib.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/lib.h
+orden.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/orden.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/vehiculo.cpp
+vehiculo.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/vehiculo.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/vehiculo.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/ejercicios.cpp
+ejercicios.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/ejercicios.h
+funciones.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/funciones.h
+clasesEjercicio1/sistema_logistico.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/sistema_logistico.h
+clasesEjercicio1/sistema_logistico.cpp
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/clasesEjercicio1/sistema_logistico.cpp
+Ejercicio2/LIFO.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio2/LIFO.h
+Ejercicio2/LIFO.cpp
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio2/LIFO.cpp
+Ejercicio3/LIFO_T.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio3/LIFO_T.h
+Ejercicio3/LIFO_T.cpp
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio3/LIFO_T.cpp
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/ejercicios.h
+lib.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/lib.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/funciones.cpp
+funciones.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/funciones.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/funciones.h
+lib.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/lib.h
+Ejercicio2/LIFO.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/Ejercicio2/LIFO.h
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/lib.h
+iostream
+-
+list
+-
+unordered_map
+-
+string
+-
+algorithm
+-
+
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/main.cpp
+ejercicios.h
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/src/ejercicios.h
+

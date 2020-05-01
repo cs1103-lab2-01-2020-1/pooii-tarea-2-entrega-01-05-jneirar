@@ -1,0 +1,3 @@
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/build/CMakeFiles/rebuild_cache.dir
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/build/CMakeFiles/tarea3.dir
+/home/jneira/Insync/UTEC/UTEC/04 - 2020-1/Programación Orientada a Objetos II/S03/pooii-tarea-2-entrega-01-05-jneirar/build/CMakeFiles/edit_cache.dir
